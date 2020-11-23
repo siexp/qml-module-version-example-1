@@ -1,0 +1,6 @@
+module com.github.siexp
+MyButton 1.0 MyButton.1.0.qml
+MyButton 2.0 MyButton.2.0.qml
+MyRectangle 1.0 MyRectangle.1.0.qml
+MyRectangle 2.0 MyRectangle.1.0.qml
+MyCircle 2.0 MyCircle.2.0.qml

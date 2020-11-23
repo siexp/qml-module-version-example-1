@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>com/github/siexp/MyButton.1.0.qml</file>
+        <file>com/github/siexp/MyButton.2.0.qml</file>
+        <file>com/github/siexp/qmldir</file>
+        <file>com/github/siexp/MyRectangle.1.0.qml</file>
+        <file>com/github/siexp/MyCircle.2.0.qml</file>
+    </qresource>
+</RCC>
